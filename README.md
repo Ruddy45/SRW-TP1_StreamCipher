@@ -1,1 +1,1 @@
-SRW-TP1_StreamCipher
+SRW_TP1_StreamCipher
